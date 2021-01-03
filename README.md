@@ -10,3 +10,6 @@ Mapping URLs, password policies and login pages
 
 ## Login-Pages
 - https://raw.githubusercontent.com/NeSPA-Password-Security/Compability/main/login-pages.list
+
+## Register-Pages
+- https://raw.githubusercontent.com/NeSPA-Password-Security/Compability/main/register-pages.list
